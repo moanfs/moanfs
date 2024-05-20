@@ -1,16 +1,52 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**moanfs/moanfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+composer full-stack developer
+```
 
-Here are some ideas to get you started:
+```yaml
+function Profile(){
+  const myName : 'Halomoan Filipus Simarmata';
+  const nickname : 'Moan';
+  const myHobby :
+    [
+    'Hiking 🗻',
+    'Gaming 🎮',
+    'Reading 📖',
+    ];
+  const fieldsOfInterests:
+    [
+    'Full Stack Developer',
+    'UI/UX Design',
+    'Machine Learning',
+    'DevOps',
+    'Data Science'
+    ];
+  let currentlyLearning: ["Mobile Developement, Golang"];
+  let Goals :
+    [
+      {
+      year : 2024,
+      title : 'building a website for information about mountain climbing in Indonesia',
+      status : 'upcoming',
+      },
+      {
+      year : 2024,
+      title : 'create a 3d portfolio website',
+      status : 'upcoming'
+      },
+    ];
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## List Repositories
+
+| Name List | Description | URL |
+|  -------  | ----------- |:---:|
+| 🚀 My Project (open source) | This list is about open source projects that I developed | [Link](https://github.com/stars/moanfs/lists/my-project-open-source) |
+| ✌️My Learn | This list contains my daily coding lessons | [Link](https://github.com/stars/moanfs/lists/my-learn) |
+| 💪Test | This list is about coding tests | [Link](https://github.com/stars/moanfs/lists/test) |
+
+```
+npm thank you
+```
